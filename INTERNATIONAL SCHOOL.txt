@@ -1,0 +1,70 @@
+
+
+
+INTERNATIONAL SCHOOL
+
+CAPSTONE PROJECT 1
+CMU-CS 246
+PROJECT PLAN DOCUMENT
+Version: 2.0
+CALCULATOR SYSTEM – CS
+Mentor:  Nguyen Dang Quang Huy
+Team Member:
+Hue, Nguyen Thi Kim
+Hieu, Vo Trung
+Quang, Truong Minh
+Hoang, Tran Dinh Huy
+Huyen, Phan Thi Thanh
+Approved by Huy Nguyen Dang Quang
+
+Project Plan Review Panel Representative: 
+ 	 	 	 	 	 	 	 	 	 	 	 
+Name 	 	 	 	Signature  	 	Date 
+ 
+ 
+Capstone Project 1- Mentor:  
+	 	 	 	 	 	 	 	 	 	 	 
+Name 	 	 	 	Signature  	 	Date 
+
+Da Nang, 21/2024
+PROJECT INFORMATION
+Project AcronymCSProject TitleCALCULATOR SYSTEMStart Date21 – Jan – 2024End Date21 – Jan – 2024Lead InstitutionInternational School, Duy Tan UniversityTeam MemberNameEmailPhone28201154111Nguyen Thi Kim Huenguyenthikimhue30072004@gmail.com076313063728219050216Vo Trung Hieutrunghieu0981633043@gmail.com098163304328211101410Truong Minh Quangquangff296@gmail.com083565023028218006519Tran Dinh Huy Hoanghtrandinh204@gmail.com093477416028209054134Phan Thi Thanh Huyenphanthithanhhuyen2k4@gmail.com0917810012
+PROJECT PLAN DOCUMENT
+Document TitleProject Plan DocumentAuthor(s)Team 4DateJan 21th, 2024File name:PROJECT PLAN DOCUMENT.docxURLCMU-CS 246 DIS-TEAM 4 - Google DriveAccessProject and CMU Program
+
+
+SIGNATURE
+Document Approvals: The following signatures are required for approval of this document.
+
+Mentor
+Huy, Nguyen Dang QuangSignature:Date:Scrum masterHue, Nguyen Thi KimSignature:Date:ProDuct
+OwnerHuy, Nguyen Dang QuangSignature:Date:Team member(s)Quang, Minh TruongSignature:Date:Hoang, Tran Dinh HuySignature:Date:Huyen, Phan Thi ThanhSignature:Date:Hieu, Vo TrungSignature:Date:
+REVISION HISTORY
+VersionPerson(s)DateDescription1.0Nguyen Thi Kim HueJan 21th, 2024Draf2.0Nguyen Thi Kim HueJan 21th, 2024Final  
+
+Contents
+1.	PROJECT DESCRIPTION	6
+2.	DETAILED SCHEDULE	6
+
+
+
+1. PROJECT DESCRIPTION 
+
+Project codeCSContract typeInternal ProjectCustomerN/AEnd-userDuy Tan’s studentsProject typeInternalProject Manager/
+Scrum MasterHue, NguyenThi KimProject categoryCalculationBusiness DomainAIApplication typeWinformTable 1: Project Description
+    This section provides a detailed description of a user-friendly calculator form that allows users to input two numbers and perform basic arithmetic operations, including addition, subtraction, multiplication, division, and mod.
+    The calculator form stands out for its efficiency, user empowerment, versatility, educational value, time-saving capabilities, and accessibility, making it a valuable tool for users seeking a straightforward and reliable means of performing basic arithmetic calculations.
+2. DETAILED SCHEDULE
+
+No.Task NameEffortStartFinishAssign to1Initial2 days20/01/202421/01/2024All members1.1Project Kick-off Meeting
+Discuss about project ideal1 day20/01/202420/01/2024All members1.2Create Project Plan Document1 day21/01/202421/01/2024Hue2Requirement1 day22/01/202422/01/2024Quang, Hieu, Hue2.1Make Defined Process Document2 hrs22/01/202422/01/2024Quang2.2Make SRS Document6 hrs22/01/202422/01/2024Hue, Hieu3Analysis and Design1 day23/01/202423/01/2024All members3.1Design UI for Homepage15 mins23/01/202423/01/2024Quang3.2Design UI for + function15 mins23/01/202423/01/2024Huyen3.3Design UI for - function15 mins23/01/202423/01/2024Hoang3.4Design UI for * function15 mins23/01/202423/01/2024Hieu3.5Design UI for / function15 mins23/01/202423/01/2024Quang3.6Design UI for % function15 mins23/01/202423/01/2024Hue3.7Make User Interface Design Document2 hrs23/01/202423/01/2024Hue4Code2 days24/01/202425/01/2024All members4.1Code + function3 hrs24/01/202424/01/2024Huyen4.2Code - function3 hrs24/01/202424/01/2024Hoang4.3Code * function3 hrs24/01/202424/01/2024Hieu4.4Code / function3 hrs24/01/202424/01/2024Quang4.5Code % function3 hrs25/01/202425/01/2024Hue4.6Code Homepage3 hrs25/01/202425/01/2024Hue5Test1 day26/01/202426/01/2024All members5.1Write test case and test for + function2 hrs26/01/202426/01/2024Huyen5.2Write test case and test for - function2 hrs26/01/202426/01/2024Hoang5.3Write test case and test for * function2 hrs26/01/202426/01/2024Hieu5.4Write test case and test for / function2 hrs26/01/202426/01/2024Quang5.5Write test case and test for % function2 hrs26/01/202426/01/2024Hue6Close Project10 mins27/01/202427/01/2024Hue6.1Release5 mins27/01/202427/01/2024Hue6.2Project Meeting30 mins27/01/202427/01/2024All members6.3Final Submission10 mins27/01/202427/01/2024HueDuration820/01/202427/01/2024All membersTable 2: detail schedule
+
+
+
+
+
+	
+
+		1
+
+
